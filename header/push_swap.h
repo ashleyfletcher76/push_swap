@@ -6,7 +6,7 @@
 /*   By: asfletch <asfletch@student.42heilbronn.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/13 12:31:19 by asfletch          #+#    #+#             */
-/*   Updated: 2023/12/06 15:52:37 by asfletch         ###   ########.fr       */
+/*   Updated: 2023/12/08 14:18:22 by asfletch         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,13 +17,6 @@
 # include <stdio.h>
 # include <limits.h>
 # include <stdbool.h>
-
-typedef struct s_node
-{
-	int				value;
-	struct s_node	*next;
-	struct s_node	*prev;
-}	t_node;
 
 int		main(int argc, char **argv);
 
