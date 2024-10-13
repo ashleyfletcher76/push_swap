@@ -124,3 +124,5 @@ The program uses the following stack operations to sort the integers:
 - rrr: Reverse rotate both stack A and stack B.
 
 ## Authors
+
+- **Ashley Fletcher** - *Developer* - [GitHub Profile](https://github.com/ashleyfletcher76)
